@@ -54,4 +54,4 @@ When designing a database schema, we let the needs of the application drive the 
 One of the critical concerns is associating data in different tables with each other.  For example, associating students with their courses through the sections in which they enroll.  We need to be able to look at an application, infer the types of relationship between objects, and know how to model them in our schemas.
 
 
-[Schema Designer]: https://schemadesigner.devbootcamp.com/
+[Schema Designer]: https://ondras.zarovi.cz/sql/demo/
